@@ -9,7 +9,7 @@
  ***graduate***
 - college name:MVR degree and PG colleges <br>
 - year of passing:2021 <br>
-- percentage:7.9 <br>
+- percentage:8.2<br>
 - address:sramikanagar,vsp <br>
 ***intermediate***
 - college name:sri surya junior college <br>
